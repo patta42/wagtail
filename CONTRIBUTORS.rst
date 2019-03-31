@@ -5,7 +5,7 @@ Core team
 * Karl Hobley (Torchbox)
 * Tom Dyson (Torchbox)
 * Mikalai Radchuk (Torchbox)
-* Thibaud Colas
+* Thibaud Colas (Torchbox)
 * Janneke Janssen (Lukkien)
 * Mike Dingjan (Lab Digital)
 * Bertrand Bordage (NoriPyt)
@@ -17,6 +17,9 @@ Core team
 * Codie Roelf (Praekelt)
 * Lisa Adams (Praekelt)
 * Naomi Morduch Toubman
+* Kalob Taulien
+* Jonny Scholes (Takeflight)
+* Andy Babic (Torchbox)
 
 Contributors
 ============
@@ -131,7 +134,6 @@ Contributors
 * Danielle Madeley
 * Roel Bruggink
 * Yannick Chabbert
-* Andy Babic
 * Tomas Olander
 * Andrew Tork Baker
 * Vincent Audebert
@@ -149,7 +151,6 @@ Contributors
 * Stephen Rice
 * Behzad Nategh
 * Yann Fouillat (Gagaro)
-* Jonny Scholev
 * Richard McMillan
 * Johannes Spielmann
 * Franklin Kingma
@@ -353,6 +354,13 @@ Contributors
 * Gassan Gousseinov
 * Thomas Kremmel
 * patta42
+* Esper Kuijs
+* Damian Grinwis
+* Wesley van Lee
+* Md Arifin Ibne Matin
+* Tom Usher
+* Haydn Greatnews
+* Katie Locke
 
 Translators
 ===========
